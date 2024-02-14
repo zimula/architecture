@@ -7,3 +7,15 @@ graph TD;
     B-->D
     C-->D
 ```
+An more advanced example 
+- kewords for flow charts
+    - st for start
+    - op for operation
+    - cond for conditon
+    - e for end 
+```flow
+st=>start: Beginning
+op=>operation: Ready?
+cond=>condition: Yes og  No?
+e=>end
+```
