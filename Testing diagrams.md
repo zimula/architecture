@@ -18,4 +18,8 @@ st=>start: Beginning
 op=>operation: Ready?
 cond=>condition: Yes og  No?
 e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
 ```
