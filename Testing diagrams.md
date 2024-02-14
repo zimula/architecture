@@ -16,7 +16,7 @@ An more advanced example
 ```flow
 st=>start: Beginning
 op=>operation: Ready?
-cond=>condition: Yes og  No?
+cond=>condition: Yes og No?
 e=>end
 
 st->op->cond
