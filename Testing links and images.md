@@ -2,5 +2,4 @@
 ![a simple image](/basic%20journey.PNG)
 
 #links 
-This link leeds to google's website
-(google.com)
+[google's website](google.com)
